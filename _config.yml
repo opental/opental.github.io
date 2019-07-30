@@ -1,4 +1,5 @@
 theme: jekyll-theme-architect
-title: openTAL - open test adaption layer
+title: openTAL
+subtitle: open test adaption layer
 show_downloads: false
 baseurl: "/"
