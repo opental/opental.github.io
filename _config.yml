@@ -3,3 +3,10 @@ title: openTAL
 subtitle: open test adaption layer
 show_downloads: false
 baseurl: "/"
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
